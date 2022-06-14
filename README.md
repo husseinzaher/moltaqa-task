@@ -50,9 +50,6 @@
 - first phase please config your database connection in .env file or database.php config file 
 - second phase please run : `php artisan migrate:fresh --seed` to create tables and seed data
 
-- first phase please config your database connection in .env file or database.php config file
-- second phase please run : `php artisan migrate:fresh --seed` to create tables and seed data
-
 to test login with test unit : `php artisan test tests\Feature\UserAuthTest.php`,
 
 or run local development server : `php artisan serve` and follow this postman
