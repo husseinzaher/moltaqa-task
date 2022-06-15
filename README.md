@@ -18,7 +18,7 @@
 
 ## What is Moltaqa Task ?
 
-    I am working on this task to provide you with my technical capabilities .
+ - I am working on this task to provide you with my technical capabilities .
 
 ## _Task Details_
 
